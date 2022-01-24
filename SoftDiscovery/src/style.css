@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  background-color: #191C19;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  width: 100vw;
+  margin: 0%;
+}
+
+
+.navbar li{
+  display:flex;
+  flex-direction: row;
+  width: 384px;
+  height: 100px;
+  padding: 0.5%;
+
+}
+.navbar li:not(.current){
+  background: no-repeat url(img/bar.svg);
+  background-position-y: 100%;
+}
+
+.navbar li object {
+  
+  width:92px;
+  height:92px;
+  padding-right:16px;
+  padding-bottom: 10px;
+}
+
+.navbar li object:hover {
+  
+  width:98px;
+  height:98px;
+  padding-right:16px;
+  padding-bottom: 10px;
+}
+
+.nav-actualities
+{
+  background: no-repeat url(img/actualities-icon.svg);
+  background-position: 40%;
+  background-size: 45%;
+}
+
+.nav-project
+{
+  background: no-repeat url(img/project-icon.svg);
+  background-position: 40%;
+  background-size: 50%;
+}
+
+.nav-contacts
+{
+  background: no-repeat url(img/contact-icon.svg);
+  background-position: 40%;
+  background-size: 35%;
+}
+
+.navbar li text{
+  background: no-repeat url(img/nav-border.svg);
+  background-size: 256px;
+  background-position-y: 7.5px;
+  width: 256px;
+  height: 128px;
+  font-size: 18px;
+  list-style-type: square;
+  padding: 22.5px 256px 128px 30px;
+  color:#60A9AE;
+  stroke: #60A9AE
+}
+
+object {
+  pointer-events: all;
+}
+
+.current {
+  background: no-repeat url(img/selected.svg);
+  background-size: 100%;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  justify-content: center;
+  flex-grow: 3;
+  background: no-repeat url(img/bar.svg);
+  background-position-y: 103%;
+}
+

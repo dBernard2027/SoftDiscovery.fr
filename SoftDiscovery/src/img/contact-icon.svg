@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 59.7 96.19">
+    <defs>
+        <style>.cls-1{fill:none;}.cls-1,.cls-2{stroke:#78aaaf;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#5ff3ff;}</style>
+    </defs>
+    <title>Asset 16</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <path class="cls-1" d="M6.94,33l4.9,35.67S34,86.82,34.69,86.73,52.76,65.07,52.76,65.07L47.58,27.43l-23.51-18Z" />
+            <polyline class="cls-1" points="11.84 68.68 29.71 48.05 47.58 27.43" />
+            <polyline class="cls-1" points="34.69 86.73 29.38 48.1 52.76 65.07" />
+            <polyline class="cls-1" points="6.94 33.01 29.38 48.1 24.07 9.46" />
+            <ellipse class="cls-2" cx="29.11" cy="48.64" rx="5.38" ry="8" transform="matrix(0.99, -0.14, 0.14, 0.99, -6.35, 4.42)" />
+            <ellipse class="cls-2" cx="34.69" cy="86.73" rx="5.38" ry="8" transform="matrix(0.99, -0.14, 0.14, 0.99, -11.49, 5.53)" />
+            <ellipse class="cls-2" cx="52.76" cy="65.07" rx="5.38" ry="8" transform="matrix(0.99, -0.14, 0.14, 0.99, -8.37, 7.79)" />
+            <ellipse class="cls-2" cx="46.92" cy="27.52" rx="5.38" ry="8" transform="translate(-3.31 6.64) rotate(-7.83)" />
+            <ellipse class="cls-2" cx="24.07" cy="9.46" rx="5.38" ry="8" transform="matrix(0.99, -0.14, 0.14, 0.99, -1.06, 3.37)" />
+            <ellipse class="cls-2" cx="6.94" cy="33.01" rx="5.38" ry="8" transform="translate(-4.43 1.25) rotate(-7.83)" />
+            <ellipse class="cls-2" cx="11.71" cy="67.69" rx="5.38" ry="8" transform="translate(-9.11 2.22) rotate(-7.83)" />
+        </g>
+    </g>
+</svg>

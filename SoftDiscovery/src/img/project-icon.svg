@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 65.95 73.46">
+    <defs>
+        <style>.cls-1,.cls-3{fill:none;}.cls-1,.cls-2{stroke:#b1d5d4;}.cls-1,.cls-2,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2{fill:#b1d5d4;}.cls-3,.cls-4{stroke:#5ff3ff;}.cls-4{fill:#5ff3ff;}</style>
+    </defs>
+    <title>project-icon</title>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1">
+            <polyline class="cls-1" points="4.55 3.5 36.55 15.5 36.55 72.5 4.55 59.5" />
+            <polyline class="cls-1" points="4.55 32.5 36.55 45.97 62.55 56.5" />
+            <circle class="cls-2" cx="3.8" cy="59.25" r="2.75" />
+            <circle class="cls-2" cx="4.7" cy="32.31" r="2.75" />
+            <circle class="cls-2" cx="4.7" cy="3.25" r="2.75" />
+            <circle class="cls-2" cx="62.7" cy="56.25" r="2.75" />
+            <polyline class="cls-3" points="4 3.72 36 15.72 36 72.72 4 59.72" />
+            <polyline class="cls-3" points="4 32.72 36 46.19 62 56.72" />
+            <circle class="cls-4" cx="3.25" cy="59.47" r="2.75" />
+            <circle class="cls-4" cx="4.15" cy="32.53" r="2.75" />
+            <circle class="cls-4" cx="4.15" cy="3.47" r="2.75" />
+            <circle class="cls-4" cx="62.15" cy="56.47" r="2.75" />
+        </g>
+    </g>
+</svg>
