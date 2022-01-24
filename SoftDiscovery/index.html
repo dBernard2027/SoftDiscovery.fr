@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <link href="src/style.css" rel="stylesheet">
+
 <head>
   <meta charset="UTF-8" />
   <link rel="icon" type="image/svg+xml" href="favicon.svg" />
@@ -24,18 +25,24 @@
         <text> Contacts</text>
       </li>
     </ul>
-    <object class="nav-contacts" data="src/img/bar.svg" type="image/svg+xml"></object>
   </nav>
-  <hr>
-  <div class="home-front">
-    <h1>SoftDiscovery</h1>
-    <p>SoftDiscovery est un espace dédié à la présentation de projets dans un but de démonstration mais aussi de
-      partage.</p>
-  </div>
-  <div class="home-redirect">
-    <button>Actualités</button>
-    <button>Projets</button>
-    <button>Contacts</button>
+  <div class="home">
+    <div class="home-front">
+      <h1>SoftDiscovery</h1>
+      <p>SoftDiscovery est un espace dédié à la présentation de projets dans un but </p>
+      <p> de démonstration mais aussi de partage.</p>
+    </div>
+    <div class="home-redirect">
+      <form action="./actualities.html">
+        <button>Actualités</button>
+      </form>
+      <form action="./project.html">
+        <button>Projets</button>
+      </form>
+      <form action="./contact.html">
+        <button>Contacts</button>
+      </form>
+    </div>
   </div>
   <script type="module" src="/src/main.ts"></script>
 </body>

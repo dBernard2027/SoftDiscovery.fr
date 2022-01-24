@@ -90,7 +90,46 @@ object {
   width: 100vw;
   justify-content: center;
   flex-grow: 3;
+  padding: 0%;
   background: no-repeat url(img/bar.svg);
   background-position-y: 103%;
 }
 
+.home-front {
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.home-front >* {
+  display:flex;
+  justify-content: center;
+}
+
+.home-front h1 {
+  color: #4bc8d1;
+  font-size: 64px;
+}
+
+.home-front p {
+  color: whitesmoke;
+  font-size: 24px;
+  justify-content: center;
+  margin:0%;
+}
+
+
+.home-redirect {
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.home-redirect >* {
+  margin: 5%;
+}
+
+.home {
+  border: solid;
+}
