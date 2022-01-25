@@ -97,24 +97,24 @@ object {
   background-position-y: 103%;
 }
 
-.home-front {
+.title {
   display:flex;
   flex-direction: column;
   justify-content: center;
 }
 
 
-.home-front >* {
+.title >* {
   display:flex;
   justify-content: center;
 }
 
-.home-front h1 {
+.title h1 {
   color: #4bc8d1;
   font-size: 64px;
 }
 
-.home-front p {
+.title p {
   color: whitesmoke;
   font-size: 24px;
   justify-content: center;
